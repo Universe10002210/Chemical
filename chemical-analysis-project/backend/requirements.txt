@@ -1,0 +1,5 @@
+
+flask
+flask-sqlalchemy
+rdkit-pypi
+flask-cors
